@@ -3,7 +3,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <div className="h-20 flex items-center justify-around">
+    <div className="h-20 flex items-center justify-around z-10">
       <div className="flex gap-x-2 text-lg items-center">
         <Image alt="Logo" src={"/icon/logo.svg"} width={32} height={32} />
         <h1 className="text-white font-pacifico">Medley</h1>
