@@ -31,7 +31,7 @@ function Banner() {
     },
   ];
   return (
-    <div className="w-full flex gap-10 items-center flex-wrap justify-center py-6">
+    <div className="w-full flex gap-10 items-center flex-wrap justify-center pt-10">
       {bannerImg.map((items: any, index: number) => {
         return (
           <Image

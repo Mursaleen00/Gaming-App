@@ -1,6 +1,7 @@
 import Banner from "@/components/Banner";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
+import WhatWeDo from "@/components/WhatWeDo";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       </div>
       <div className="bg-theme-bg">
         <Banner />
+        <WhatWeDo />
       </div>
     </>
   );

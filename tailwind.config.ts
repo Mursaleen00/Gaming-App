@@ -19,6 +19,7 @@ const config: Config = {
       },
       colors: {
         "theme-bg": "#1C1C28",
+        "theme-orange": "#F68E5F",
       }
     },
   },
