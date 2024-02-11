@@ -11,3 +11,23 @@
   font-family: main-font;
   letter-spacing: 2px;
 }
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #080357;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #777B9E;
+  border-radius: 20px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #596AFE;
+}
