@@ -13,12 +13,12 @@ function Navbar() {
         <ul className="flex gap-x-10 text-white font-normal text-sm font-pacifico">
           <li className="text-theme-second-color cursor-pointer">Home</li>
           <li className="cursor-pointer">About</li>
-          <li className="cursor-pointer">Steps</li>
-          <li className="cursor-pointer">Testimonial</li>
+          <li className="cursor-pointer">Privacy Policy</li>
+          <li className="cursor-pointer">Our Shop</li>
         </ul>
         <input
           type="text"
-          className="rounded-full outline-none text-white bg-transparent border-2 px-3"
+          className="rounded-full outline-none text-white bg-transparent border-2 px-3 py-1"
         />
       </div>
     </div>
