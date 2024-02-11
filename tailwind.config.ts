@@ -13,7 +13,11 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
         'hero': "url('/image/bg.jpg')",
+        "btn-color": "linear-gradient(267.28deg, #7B61FF 24%, #AA82FF 73.95%)",
       },
+      colors: {
+
+      }
     },
   },
   plugins: [],
