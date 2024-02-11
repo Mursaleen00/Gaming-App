@@ -14,8 +14,9 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
         'hero': "url('/image/bg.jpg')",
         "btn-color": "linear-gradient(267.28deg, #7B61FF 24%, #AA82FF 73.95%)",
-        "hero-main": " linear-gradient(360deg, rgba(28, 28, 40, 0.8) 0%, rgba(28, 28, 40, 0) 77.78%)"
-
+        "hero-main": " linear-gradient(360deg, rgba(28, 28, 40, 0.8) 0%, rgba(28, 28, 40, 0) 77.78%)",
+        'release': "url('/image/relese.svg')",
+        "top": "linear-gradient(180deg, #1C1C28 0%, rgba(28, 28, 40, 0.8) 20.31%, rgba(28, 28, 40, 0.7) 33.85%, rgba(28, 28, 40, 0) 100%)",
       },
       colors: {
         "theme-bg": "#1C1C28",

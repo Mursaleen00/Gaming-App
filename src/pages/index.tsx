@@ -1,6 +1,7 @@
 import Banner from "@/components/Banner";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
+import NewlyReleasedGames from "@/components/NewlyReleasedGames";
 import WhatWeDo from "@/components/WhatWeDo";
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
       <div className="bg-theme-bg">
         <Banner />
         <WhatWeDo />
+        <NewlyReleasedGames />
       </div>
     </>
   );
